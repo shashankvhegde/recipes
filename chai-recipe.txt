@@ -1,0 +1,8 @@
+Milk, Water, Tea Powder, Sugar.
+
+Boil water.
+Add Tea Powder.
+Add Sugar.
+Let it boil.
+Add Milk.
+Serve.
